@@ -224,7 +224,7 @@ def DMY(pr,time_frame):
     
         
 
-# if __name__=="main":
+# if __name__=="__main__":
 #     # print(get_addres("ملت"))
 #     get_data(get_addres("ذوب")).to_csv('rData.csv', sep=',', encoding='utf-8')
 # print(price_to_chart(read_price(get_addres("وبملت"),"20210202"),"20210202",time_frame="1D"))
